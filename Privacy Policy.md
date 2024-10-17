@@ -49,6 +49,8 @@ For questions or concerns regarding this Privacy Policy or to exercise your righ
 
 ````
 # Contact
+
 POWERD BY SPECTRE
+
 [ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
 [DISCORD - Ticket Support](https://discord.com/invite/specr)
