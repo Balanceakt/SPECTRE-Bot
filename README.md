@@ -62,14 +62,5 @@ We do not sell or share your data with third parties unless required by law. You
 We reserve the right to update or change these Terms of Service at any time. If significant changes are made, we will notify you through the bot or other communication channels. Continuing to use the bot after any changes means you accept the updated terms.
 ````
 
-# Contact
-````
-SPECTRE 👺
-https://robertsspaceindustries.com/orgs/SPECR
-
-SPECTRE-DISCORD 👋
-https://discord.com/invite/specr
-````
-
 [ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
 [DISCORD - Ticket Support](https://discord.com/invite/specr)
