@@ -70,3 +70,6 @@ https://robertsspaceindustries.com/orgs/SPECR
 SPECTRE-DISCORD 👋
 https://discord.com/invite/specr
 ````
+
+[ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
+[DISCORD - Ticket Support](https://discord.com/invite/specr)
