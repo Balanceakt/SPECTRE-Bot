@@ -4,6 +4,8 @@ Welcome to SC-UserTracker, a Discord bot provided by the SPECTRE Guild. By using
 
 # Contact
 
+POWERD BY SPECTRE
+
 [ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
 [DISCORD - Ticket Support](https://discord.com/invite/specr)
 
