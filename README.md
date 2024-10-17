@@ -8,9 +8,6 @@ Welcome to SC-UserTracker, a Discord bot provided by the SPECTRE Guild. By using
 [DISCORD - Ticket Support](https://discord.com/invite/specr)
 
 
-![COMMUNITY](https://github.com/user-attachments/assets/bb37f9bd-b528-407a-a01c-910668319243)
-
-
 # 1. Service Description
 ````
 SC-UserTracker allows you to retrieve public information about other users based on their publicly accessible profiles. Additionally, you can submit reviews or comments about these users, which will be visible to all other users. These reviews are intended to provide constructive feedback about other community members. All reviews and comments are permanently stored and can be viewed by anyone with access to the bot.
@@ -70,3 +67,5 @@ We do not sell or share your data with third parties unless required by law. You
 ````
 We reserve the right to update or change these Terms of Service at any time. If significant changes are made, we will notify you through the bot or other communication channels. Continuing to use the bot after any changes means you accept the updated terms.
 ````
+
+![COMMUNITY](https://github.com/user-attachments/assets/bb37f9bd-b528-407a-a01c-910668319243)
