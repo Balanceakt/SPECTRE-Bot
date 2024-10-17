@@ -54,3 +54,6 @@ POWERD BY SPECTRE
 
 [ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
 [DISCORD - Ticket Support](https://discord.com/invite/specr)
+
+![channels4_profile](https://github.com/user-attachments/assets/e553b2b9-5e8f-4c07-90bc-e98a852e3fa3)
+
