@@ -1,8 +1,3 @@
-# Contact
-
-[ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
-[DISCORD - Ticket Support](https://discord.com/invite/specr)
-
 ````
 1. Introduction
 This Privacy Policy explains how the SPECTRE Guild collects, uses, and stores personal data when you use the SC-UserTracker Discord bot. By using this bot, you agree to the processing of your data as described in this policy.
@@ -53,3 +48,7 @@ We reserve the right to update or modify this Privacy Policy as needed. Any chan
 For questions or concerns regarding this Privacy Policy or to exercise your rights, please contact us through the official SPECTRE Guild communication channels.
 
 ````
+# Contact
+POWERD BY SPECTRE
+[ORGA - No Support](https://robertsspaceindustries.com/orgs/SPECR)  
+[DISCORD - Ticket Support](https://discord.com/invite/specr)
